@@ -8,6 +8,8 @@
 // Copyright (c) 2016, Cong Ma (mcximing)
 // Copyright (c) 2018, Alexander Buchegger (abuchegger)
 //
+// https://github.com/abuchegger/hungarian-algorithm-cpp
+//
 #ifndef HUNGARIAN_ALGORITHM_CPP_HUNGARIAN_ALGORITHM_H
 #define HUNGARIAN_ALGORITHM_CPP_HUNGARIAN_ALGORITHM_H
 

@@ -4,6 +4,9 @@
 #include "hungarian_algorithm.h"
 #include "Matrix2D.h"
 
+// These functions utilize the hungarian algorithm library from here:
+// https://github.com/abuchegger/hungarian-algorithm-cpp
+
 class HungarianSample {
 public:
 
