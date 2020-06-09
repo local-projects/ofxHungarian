@@ -8,7 +8,6 @@ class HungarianSample {
 public:
 
     string key = "";
-    string keyType = "";
     glm::vec3 position;
     int index;
 

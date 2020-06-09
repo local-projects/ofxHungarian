@@ -14,7 +14,7 @@ public:
         _rows(rows), _cols(cols), matrix(_rows*_cols) {}
 
     Matrix2D(size_t rows, size_t cols, T init) :
-        _rows(rows), _columns(cols), matrix(_rows*_columns, init) {}
+        _rows(rows), _cols(cols), matrix(_rows*_cols, init) {}
 
     T& operator()(size_t row, size_t col) {
         // check bounds here
