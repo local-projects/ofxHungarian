@@ -17,6 +17,7 @@ public:
     // Will this sample be mapped to another sample?
     // If so, this index should be >= 0
     int mapTo = -1;
+    bool validMapping() { return mapTo >= 0; };
 
 };
 
